@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* =IE style fixes
+--------------------------------------------------------------------------------------------------------*/
+.ie7 #contact, .ie8 #contact, .ie9 #contact { height:290px; }
+.ie7 #contact textarea, .ie8 #contact textarea, .ie9 #contact textarea { display:block; position:absolute; bottom:0px; left:0px;}
+
+.ie7 .social li { display:inline; }
+.ie7 #options ul { display:inline;}
+/* End Fixes
+--------------------------------------------------------------------------------------------------------*/
