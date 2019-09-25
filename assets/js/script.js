@@ -1,7 +1,7 @@
 $(function () {
     'use strict';
     var note = $('#note'),
-        ts = new Date(2020, 12, 21),
+        ts = new Date(2020, 11, 21),
         newYear = true;
 
 
